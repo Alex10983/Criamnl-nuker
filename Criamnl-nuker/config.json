@@ -1,0 +1,28 @@
+{
+    "Token": "s",
+    "Prefix": "-",
+    "Channel-Names": [
+        " H2cked By ",
+        "H2cKeD By  Was Here"
+    ],
+    "Server-Names": [
+        "H2cked By  Group "
+    ],
+    "Role-Names": [
+        "H2cked By   Group",
+        "H2cked By   Group"
+    ],
+    "Reason": [
+        "By H2cked    Group",
+        "H2cked By   Group"
+    ],
+    "Spam": true,
+    "Webhook-Names": [
+        "H2cKeD By  Wass Here",
+        "H2cKeD By  Wass Here"
+    ],
+    "name": "H2cKeD By  Wass Here",
+    "Spam-Messages": "@everyone H2cKeD By https://discord.gg/ @everyone",
+    "Spam-Invite": "@everyone H2cKeD By https://discord.gg/ @everyone",
+    "Spam-Amount": 10000
+}
